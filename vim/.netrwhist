@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/chensy/VPSs'
+let g:netrw_dirhist_2='/Users/chensy/Desktop/CCTF'
+let g:netrw_dirhist_3='/Users/chensy/Desktop/watchdog'
+let g:netrw_dirhist_4='/System/Library/CoreServices/SystemFolderLocalizations/en.lproj'
+let g:netrw_dirhist_5='/Users/chensy/Documents/Companies/Knownsec/WSL/Code/od-plan'
+let g:netrw_dirhist_6='/Users/chensy/Documents/Companies/Knownsec/WSL/Code/wam'
+let g:netrw_dirhist_7='/Users/chensy/Documents/Companies/Knownsec/WSL/Code/wam2.0'
